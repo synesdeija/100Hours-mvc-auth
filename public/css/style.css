@@ -1,0 +1,16 @@
+h1 {
+    color: purple;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.not {
+    text-decoration: underline;
+}
+
+#map {
+    height: 200px;
+}
